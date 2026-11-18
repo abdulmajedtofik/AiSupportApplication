@@ -1,0 +1,6 @@
+{
+  "name": "ትምህርት አጋዥ",
+  "description": "Next-generation AI-powered learning platform with homework solver, tutor, study planner, exam quiz generator, notes, and bilingual Amharic & English support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
